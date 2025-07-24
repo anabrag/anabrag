@@ -5,18 +5,33 @@ Desenvolvedora fullstack com paixão por criar soluções que resolvem problemas
 
 ---
 
+## 🚀 Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+
+💻 *I'm currently working on this page.*
+
+---
+
 ## Sobre minha experiência
 
 Trabalho como desenvolvedora full stack com foco em **aplicações web modernas**, utilizando principalmente **React no front-end** e **Node.js no back-end**, com TypeScript e MongoDB. Tenho experiência em todo o ciclo de desenvolvimento, desde a construção de interfaces até a lógica de negócio e integrações.
 
 ### Tecnologias e práticas que utilizo no dia a dia:
 
-- **React + TypeScript** para criação de interfaces performáticas e escaláveis
-- **Node.js + MongoDB** para desenvolvimento de APIs e microsserviços
-- Boas práticas com **Git, testes automatizados e versionamento**
-- Integração com **APIs externas** (pagamentos, CRMs, plataformas de email)
-- **Automação de processos** com ferramentas como n8n, Zapier e scripts em Python/PHP (como apoio ao core técnico)
-- Participação ativa em **times ágeis**, com sprints, code reviews e entregas contínuas
+- **React + TypeScript** para criação de interfaces performáticas e escaláveis  
+- **Node.js + MongoDB** para desenvolvimento de APIs e microsserviços  
+- Boas práticas com **Git, testes automatizados e versionamento**  
+- Integração com **APIs externas** (pagamentos, CRMs, plataformas de email)  
+- **Automação de processos** com ferramentas como n8n, Zapier e scripts em Python/PHP (como apoio ao core técnico)  
+- Participação ativa em **times ágeis**, com sprints, code reviews e entregas contínuas  
 
 Sempre buscando escrever código limpo, testável e versionado com boas práticas em Git. 🚀
 
@@ -29,8 +44,8 @@ Sempre buscando escrever código limpo, testável e versionado com boas prática
 
 Também tenho formações complementares em:
 
-- Full Stack Web Development
-- Python Data Analytics
+- Full Stack Web Development  
+- Python Data Analytics  
 - IT Support (infraestrutura, suporte técnico e fundamentos operacionais)
 
 ---
@@ -46,5 +61,3 @@ Também tenho formações complementares em:
 - 📧 caroline.ma.braganca@gmail.com  
 - 📍 Nilópolis, Rio de Janeiro  
 - [LinkedIn](https://www.linkedin.com/in/ana-caroline-18706b284/)
-
----
