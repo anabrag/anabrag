@@ -1,7 +1,6 @@
 # Ana Caroline Marques Bragança
 
-Olá!  
-Eu sou a Ana Caroline  
+Olá! Eu sou a Ana Caroline  
 Desenvolvedora fullstack com paixão por criar soluções que resolvem problemas reais. Atualmente, atuo na Ecom, onde ajudo a melhorar plataformas digitais voltadas à educação e produtos online, com foco em performance, escalabilidade e uma ótima experiência para o usuário.
 
 ---
