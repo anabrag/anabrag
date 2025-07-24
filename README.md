@@ -1,4 +1,4 @@
-# 👩‍💻 Ana Caroline Marques Bragança
+# Ana Caroline Marques Bragança
 
 Olá!  
 Eu sou a Ana Caroline  
@@ -6,11 +6,11 @@ Desenvolvedora fullstack com paixão por criar soluções que resolvem problemas
 
 ---
 
-## 💼 Sobre minha experiência
+## Sobre minha experiência
 
 Trabalho como desenvolvedora full stack com foco em **aplicações web modernas**, utilizando principalmente **React no front-end** e **Node.js no back-end**, com TypeScript e MongoDB. Tenho experiência em todo o ciclo de desenvolvimento, desde a construção de interfaces até a lógica de negócio e integrações.
 
-### 💡 Tecnologias e práticas que utilizo no dia a dia:
+### Tecnologias e práticas que utilizo no dia a dia:
 
 - **React + TypeScript** para criação de interfaces performáticas e escaláveis
 - **Node.js + MongoDB** para desenvolvimento de APIs e microsserviços
@@ -23,7 +23,7 @@ Sempre buscando escrever código limpo, testável e versionado com boas prática
 
 ---
 
-## 📚 Formação
+## Formação
 
 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas  
 📘 Pós-graduanda em Engenharia de Software (2025 - em andamento)
@@ -43,13 +43,10 @@ Também tenho formações complementares em:
 
 ---
 
-## 📫 Onde me encontrar
+## Onde me encontrar
 
 - 📧 caroline.ma.braganca@gmail.com  
 - 📍 Nilópolis, Rio de Janeiro  
 - - [LinkedIn](https://www.linkedin.com/in/ana-caroline-18706b284/)
 
 ---
-
-> “Automatizar o que é repetitivo, melhorar o que é possível e simplificar o que parece complexo.” — minha filosofia de desenvolvimento ✨
-
