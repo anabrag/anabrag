@@ -45,6 +45,6 @@ Também tenho formações complementares em:
 
 - 📧 caroline.ma.braganca@gmail.com  
 - 📍 Nilópolis, Rio de Janeiro  
-- - [LinkedIn](https://www.linkedin.com/in/ana-caroline-18706b284/)
+- [LinkedIn](https://www.linkedin.com/in/ana-caroline-18706b284/)
 
 ---
