@@ -35,8 +35,6 @@ Também tenho formações complementares em:
 
 ---
 
-## 📈 Um pouco das minhas contribuições
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabrag&layout=compact)](https://github.com/anabrag)
 
 ---
