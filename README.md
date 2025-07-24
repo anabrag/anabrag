@@ -37,7 +37,6 @@ Também tenho formações complementares em:
 
 ## 📈 Um pouco das minhas contribuições
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anabrag&theme=default)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabrag&layout=compact)](https://github.com/anabrag)
 
 ---
